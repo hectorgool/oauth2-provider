@@ -1,0 +1,13 @@
+slick-joda-mapper:
+https://github.com/tototoshi/slick-joda-mapper
+
+slick 3 example:
+https://github.com/playframework/play-slick/tree/master/samples/di/app
+
+oauth2 provider example:
+https://github.com/davidseth/scala-oauth2-provider-slick
+
+underscore examples:
+https://github.com/underscoreio/essential-slick-code/blob/3.0/play-slick-example/app/models/chat_schema.scala
+
+	
